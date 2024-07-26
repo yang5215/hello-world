@@ -1,2 +1,2 @@
 # hello-world
-这是一个测试文件
+用来测试GitHub的使用
